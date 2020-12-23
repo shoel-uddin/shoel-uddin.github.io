@@ -3296,7 +3296,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #9e62b9;
 		}
 
 		.wrapper.style1-alt {
@@ -3304,7 +3304,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #50b572;
 		}
 
 		.wrapper.style2-alt {
@@ -3312,7 +3312,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #285486;
 		}
 
 		.wrapper.style3-alt {
@@ -3580,7 +3580,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #4e3b72fa;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3641,6 +3641,8 @@ input, select, textarea {
 				opacity: 1;
 				padding: 0;
 				position: relative;
+				font-size: 30px;
+				
 			}
 
 				#sidebar nav > ul > li:first-child {
